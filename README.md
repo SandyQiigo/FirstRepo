@@ -15,3 +15,5 @@ at 5:21 a change made by YET another developer, on his branch called yetanotherd
 5:22pm I am yetanotherdeveloper, and I think I am the king, so I can do whatever I want in my own branch over here. so there.
 
 5:16pm checked out new branch called rebasing-demo-1 and added this line of code.
+
+5:17pm more changes on this branch called rebasing-demo-1 and added this line of code BEFORE REBASING.
